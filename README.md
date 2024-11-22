@@ -25,6 +25,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - OPNsense
 - SonicWall
 - Sophos XGS
+- Stonesoft StoneGate
 - TP-Link
 - Ubiquiti UniFi Cloud Gateway
 - Ubiquiti USG
