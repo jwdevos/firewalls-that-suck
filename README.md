@@ -8,6 +8,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - Cisco Firepower
 - Cisco Meraki
 - Cisco PIX
+- Clavister
 - Forcepoint
 - Fortinet FortiGate
 - Huawei USG
