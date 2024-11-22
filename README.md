@@ -1,6 +1,7 @@
 # Firewalls That Suck
 A comprehensive list of all firewalls that suck, serving as a warning to fellow engineers.
 
+- Altiga
 - Arista NG
 - Asus
 - Barracuda
@@ -22,6 +23,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - McAfee Next Generation Firewall
 - Microsoft TMG
 - Mikrotik
+- Neoteris IVE
 - Netgear
 - NetScreen
 - Palo Alto PA-*
@@ -31,6 +33,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - SonicWall
 - Sophos XGS
 - Stonesoft StoneGate
+- TeleWell
 - Teltonika
 - TP-Link
 - Ubiquiti UniFi Cloud Gateway
