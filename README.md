@@ -13,6 +13,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - Cisco PIX
 - Clavister
 - DD-WRT
+- DrayTek
 - Firewalla
 - Fritzbox
 - Forcepoint
