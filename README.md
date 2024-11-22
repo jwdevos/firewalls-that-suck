@@ -1,5 +1,5 @@
 # Firewalls That Suck
-A comprehensive list of all firewalls that suck, to serve as a warning to fellow engineers.
+A comprehensive list of all firewalls that suck, serving as a warning to fellow engineers.
 
 - Check Point
 - Cisco ASA
