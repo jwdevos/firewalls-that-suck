@@ -23,6 +23,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - Microsoft TMG
 - Mikrotik
 - Netgear
+- NetScreen
 - Palo Alto PA-*
 - PfSense
 - OpenWrt
@@ -30,6 +31,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - SonicWall
 - Sophos XGS
 - Stonesoft StoneGate
+- Teltonika
 - TP-Link
 - Ubiquiti UniFi Cloud Gateway
 - Ubiquiti USG
