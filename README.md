@@ -17,6 +17,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - Linux ipchains
 - Linux iptables
 - Linux nftables
+- McAfee Next Generation Firewall
 - Microsoft TMG
 - Mikrotik
 - Netgear
