@@ -30,4 +30,4 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 
 If you happen to know of another firewall that sucks, please make a contribution by forking this repository and commiting your suggestion.
 
-*Disclaimer: This list is meant in good fun. Your product could be mentioned solely for the reason of being a firewall. There is no distinction, all firewalls are deserving of equal grievance. Please note that if a firewall is not listed, it still sucks.*
+*Disclaimer: This list is meant in good fun. Your product could be mentioned solely for the reason of being a firewall. There is no distinction, all firewalls are deserving of grievance. Please note that if a firewall is not listed, it still sucks.*
