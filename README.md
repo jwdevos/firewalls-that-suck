@@ -28,6 +28,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - Neoteris IVE
 - Netgear
 - NetScreen
+- Packeteer
 - Palo Alto PA-*
 - PfSense
 - OpenWrt
