@@ -12,6 +12,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - Cisco PIX
 - Clavister
 - DD-WRT
+- Fritzbox
 - Forcepoint
 - Fortinet FortiGate
 - Huawei USG
