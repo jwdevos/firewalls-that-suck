@@ -13,6 +13,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - Huawei USG
 - Juniper SRX
 - Juniper SSG
+- Linux ipchains
 - Linux iptables
 - Linux nftables
 - Microsoft TMG
