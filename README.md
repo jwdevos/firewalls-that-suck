@@ -1,6 +1,7 @@
 # Firewalls That Suck
 A comprehensive list of all firewalls that suck, serving as a warning to fellow engineers.
 
+- Arista NG
 - Barracuda
 - Check Point
 - Cisco ASA
@@ -9,6 +10,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - Cisco PIX
 - Forcepoint
 - Fortinet FortiGate
+- Huawei USG
 - Juniper SRX
 - Juniper SSG
 - Mikrotik
@@ -17,7 +19,9 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - OPNsense
 - SonicWall
 - Sophos XGS
-- WatchGuard
+- WatchGuard Firebox
+- WatchGuard XTM
+- VMware NSX
 - Zyxel USG
 
 If you happen to know of another firewall that sucks, please make a contribution by forking this repository and commiting your suggestion.
