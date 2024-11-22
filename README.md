@@ -17,11 +17,16 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - Linux nftables
 - Microsoft TMG
 - Mikrotik
+- Netgear
 - Palo Alto PA-*
 - PfSense
 - OPNsense
 - SonicWall
 - Sophos XGS
+- TP-Link
+- Ubiquiti UniFi Cloud Gateway
+- Ubiquiti USG
+- Ubiquiti UXG
 - WatchGuard Firebox
 - WatchGuard XTM
 - VMware NSX
