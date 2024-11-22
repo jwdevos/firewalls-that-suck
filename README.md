@@ -2,6 +2,7 @@
 A comprehensive list of all firewalls that suck, serving as a warning to fellow engineers.
 
 - Arista NG
+- Asus
 - Barracuda
 - Check Point
 - Cisco ASA
@@ -9,6 +10,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - Cisco Meraki
 - Cisco PIX
 - Clavister
+- DD-WRT
 - Forcepoint
 - Fortinet FortiGate
 - Huawei USG
@@ -23,6 +25,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - Netgear
 - Palo Alto PA-*
 - PfSense
+- OpenWrt
 - OPNsense
 - SonicWall
 - Sophos XGS
