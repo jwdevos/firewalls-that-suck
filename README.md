@@ -33,6 +33,7 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - Packeteer
 - Palo Alto PA-*
 - PfSense
+- Pulse Secure PSA
 - OpenWrt
 - OPNsense
 - SonicWall
