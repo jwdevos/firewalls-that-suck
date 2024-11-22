@@ -1,6 +1,7 @@
 # Firewalls That Suck
 A comprehensive list of all firewalls that suck, serving as a warning to fellow engineers.
 
+- Allied Telesis
 - Altiga
 - Arista NG
 - Asus
