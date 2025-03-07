@@ -1,6 +1,9 @@
 # Firewalls That Suck
-A comprehensive list of all firewalls that suck, serving as a warning to fellow engineers.
-
+A comprehensive list of all firewalls that suck, serving as a warning to fellow engineers.  
+If you happen to know another firewall that sucks, please make a contribution by forking this repository and commiting your suggestion.  
+  
+*Disclaimer: The list is meant in good fun. Your product could be mentioned solely for the reason of being a firewall. There is no distinction, all firewalls deserve loathing. Please note that even if a firewall isn't listed, it still sucks.*  
+  
 - Allied Telesis
 - Altiga
 - Arista NG
@@ -53,6 +56,3 @@ A comprehensive list of all firewalls that suck, serving as a warning to fellow 
 - Zyxel USG
 - Zyxel UTM
 
-If you happen to know another firewall that sucks, please make a contribution by forking this repository and commiting your suggestion.
-
-*Disclaimer: The list is meant in good fun. Your product could be mentioned solely for the reason of being a firewall. There is no distinction, all firewalls deserve loathing. Please note that even if a firewall isn't listed, it still sucks.*
