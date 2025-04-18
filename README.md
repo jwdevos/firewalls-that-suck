@@ -1,3 +1,5 @@
+**-- this repo will be archived and moved to https://codeberg.org/jwdevos/firewalls-that-suck --**
+
 # Firewalls That Suck
 A comprehensive list of all firewalls that suck, serving as a warning to fellow engineers.  
 If you happen to know another firewall that sucks, please make a contribution by forking this repository and commiting your suggestion.  
